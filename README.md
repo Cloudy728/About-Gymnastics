@@ -1,5 +1,3 @@
-</head>
-
 <body>
 	<h1>About Gymnastics</h1>
 	<img src="https://media.gettyimages.com/id/599542183/photo/side-view-of-girl-in-silhouette-by-ocean-at-sunset-in-mid-air-legs-apart-throwing-head-back.jpg?s=612x612&w=gi&k=20&c=dwEEBx_iHMFcWVu1OJRzBenpcDcfRtWKKu0PNLSpfRw=">
