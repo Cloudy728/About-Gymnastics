@@ -12,5 +12,3 @@
   <a href="https://www.youtube.com/watch?v=Ulnw1WRubX0">If you want to get the splits faster, </a>
   <a href="https://www.youtube.com/watch?v=5aDBvqIiqaI">Full body streches</a>
 </body>
-
-</html>
