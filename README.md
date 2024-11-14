@@ -2,6 +2,7 @@
 
 <body>
 	<h1>About Gymnastics</h1>
+	<img src="https://media.gettyimages.com/id/599542183/photo/side-view-of-girl-in-silhouette-by-ocean-at-sunset-in-mid-air-legs-apart-throwing-head-back.jpg?s=612x612&w=gi&k=20&c=dwEEBx_iHMFcWVu1OJRzBenpcDcfRtWKKu0PNLSpfRw=">
     <h2>A little more about it</h2>
 	<p> Gymnastics is a sport with different and complicated moves. For this sport, you will constantly have to practice and practice. This is because many of the moves you will do will probably include flexibility. Some of the starter moves may be backbend, cartwheel, and splits.
     Many people try gymnastics but find it hard. This is because you constantly have to stretch and really challenge yourself. It will also take up a lot of your time and energy. It may also be easier to start when you are younger. Since babies and younger kids have softer bones, you will find it easy to bend and twist yourself in ways that would be difficult otherwise.
